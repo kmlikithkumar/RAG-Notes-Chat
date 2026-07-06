@@ -1,0 +1,1 @@
+This is a test document containing some test text for RAG retrieval testing.

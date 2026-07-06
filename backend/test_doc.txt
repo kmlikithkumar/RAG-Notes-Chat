@@ -1,0 +1,1 @@
+This is a tiny test document. It mentions the color blue and the number 42.
